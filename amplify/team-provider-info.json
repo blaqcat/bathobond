@@ -1,23 +1,23 @@
 {
-    "prod": {
-        "awscloudformation": {
-            "AuthRoleName": "amplify-web3auth-prod-130703-authRole",
-            "UnauthRoleArn": "arn:aws:iam::633437091435:role/amplify-web3auth-prod-130703-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::633437091435:role/amplify-web3auth-prod-130703-authRole",
-            "Region": "us-east-1",
-            "DeploymentBucketName": "amplify-web3auth-prod-130703-deployment",
-            "UnauthRoleName": "amplify-web3auth-prod-130703-unauthRole",
-            "StackName": "amplify-web3auth-prod-130703",
-            "StackId": "arn:aws:cloudformation:us-east-1:633437091435:stack/amplify-web3auth-prod-130703/b0fe4570-30f8-11ed-8c51-124cb6c8d8a3",
-            "AmplifyAppId": "doucxbt80ujvl"
-        },
-        "categories": {
-            "hosting": {
-                "amplifyhosting": {
-                    "appId": "doucxbt80ujvl",
-                    "type": "cicd"
-                }
-            }
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-web3auth-prod-130703-authRole",
+      "UnauthRoleArn": "arn:aws:iam::633437091435:role/amplify-web3auth-prod-130703-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::633437091435:role/amplify-web3auth-prod-130703-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-web3auth-prod-130703-deployment",
+      "UnauthRoleName": "amplify-web3auth-prod-130703-unauthRole",
+      "StackName": "amplify-web3auth-prod-130703",
+      "StackId": "arn:aws:cloudformation:us-east-1:633437091435:stack/amplify-web3auth-prod-130703/b0fe4570-30f8-11ed-8c51-124cb6c8d8a3",
+      "AmplifyAppId": "doucxbt80ujvl"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "doucxbt80ujvl",
+          "type": "cicd"
         }
+      }
     }
+  }
 }
