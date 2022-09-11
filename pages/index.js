@@ -13,7 +13,10 @@ export default function Home() {
   }
   
   return (
+
+    
     <div className={styles.container}>
+
       <button onClick={getName}> Get Name </button>
     </div>
   )

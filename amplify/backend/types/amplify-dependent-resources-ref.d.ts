@@ -1,9 +1,1 @@
-export type AmplifyDependentResourcesAttributes = {
-    "api": {
-        "web3auth": {
-            "GraphQLAPIKeyOutput": "string",
-            "GraphQLAPIIdOutput": "string",
-            "GraphQLAPIEndpointOutput": "string"
-        }
-    }
-}
+export type AmplifyDependentResourcesAttributes = {}
